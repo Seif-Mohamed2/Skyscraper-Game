@@ -6,17 +6,17 @@ Given 2d (4*4) array of building heights, the program verify that this setup is 
 for example: given the input:
 
 4 3 2 1 <br>
-1 4 3 2
-3 2 1 4
+1 4 3 2 <br>
+3 2 1 4 <br>
 2 1 4 3
 
 the program outputs:
 
-   1 2 3 3
-   -------
-1 |4 3 2 1| 4
-2 |1 4 3 2| 3
-2 |3 2 1 4| 1
-2 |2 1 4 3| 2
-   -------
-   3 3 1 2
+---1 2 3 3-- <br>
+------------ <br>
+1 |4 3 2 1| 4 <br>
+2 |1 4 3 2| 3 <br>
+2 |3 2 1 4| 1 <br>
+2 |2 1 4 3| 2 <br>
+------------ <br>
+---3 3 1 2--
