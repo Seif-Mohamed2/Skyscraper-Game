@@ -5,7 +5,7 @@ Given 2d (4*4) array of building heights, the program verify that this setup is 
 
 for example: given the input:
 
-4 3 2 1
+4 3 2 1 <br>
 1 4 3 2
 3 2 1 4
 2 1 4 3
